@@ -55,7 +55,7 @@ Para remover a pasta selecionada, deve-se clicar no botão `Remover`.
 
 ![Remoção de pasta](assets/tutorial/folder_removal.png)
 
-![Interface sem pasta selecionada](assets/tutorial/ui_01.png)
+![Interface sem pasta selecionada](assets/tutorial/ui_03.png)
 
 #### 2.3.2 Botão de Execução
 
