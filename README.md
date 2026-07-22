@@ -81,7 +81,7 @@ Ao final do processamento, o programa salva os PDFs modificados dentro de um dir
 
 Data de lançamento: `22/07/2026`
 
-Para fazer o download desta versão, clique [aqui](https://github.com/imbaTIMvel/senocom/releases/download/v0.1.0/FaceList.exe).
+Para fazer o download desta versão, clique [aqui](https://github.com/imbaTIMvel/facelist/releases/download/v0.1.0/FaceList.exe).
 
 *Release* inicial do programa de separação e nominação automática de comprovantes.
 
