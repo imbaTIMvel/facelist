@@ -51,6 +51,12 @@ Após selecionar a pasta, o campo de seleção é atualizado.
 
 ![Interface com a pasta selecionada](assets/tutorial/ui_02.png)
 
+Para remover a pasta selecionada, deve-se clicar no botão `Remover`.
+
+![Remoção de pasta](assets/tutorial/folder_removal.png)
+
+![Interface sem pasta selecionada](assets/tutorial/ui_01.png)
+
 #### 2.3.2 Botão de Execução
 
 Selecionada a pasta, ao clicar no botão `Executar`, o programa processa os arquivos na pasta de entrada, lendo cada um (via *parsing*) e buscando as palavras-chave que servem para identificar onde cada seção do documento começa - listando-as na folha de rosto. 
@@ -60,13 +66,11 @@ Selecionada a pasta, ao clicar no botão `Executar`, o programa processa os arqu
 
 ![Clicando no botão](assets/tutorial/op_01.png)
 
-![Selecionando pasta de saída](assets/tutorial/op_02.png)
+![Processando](assets/tutorial/op_02.png)
 
-![Processando](assets/tutorial/op_03.png)
+![Processamento concluído](assets/tutorial/op_03.png)
 
-![Processamento concluído](assets/tutorial/op_04.png)
-
-Ao final do processamento, o programa salva os PDFs modificados dentro de um diretório `output`, criado dentro da pasta de entrada selecionada. Os documentos originais permanecem inalterados. Adicionalmente, é criado um documento de texto `error_logs.txt` (salvo também na pasta `output`), onde são registrados 
+Ao final do processamento, o programa salva os PDFs modificados dentro de um diretório `output`, criado dentro da pasta de entrada selecionada. Os documentos originais permanecem inalterados. Adicionalmente, é criado um documento de texto `error_logs.txt` (salvo também na pasta `output`), onde são registrados os erros e exceções do algoritmo.
 
 ## 3. Releases
 
